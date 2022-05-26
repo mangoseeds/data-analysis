@@ -1,2 +1,4 @@
 # data-analysis
-numpy and pandas basics.
+numpy and pandas basics
+
+www.suanlab.com
